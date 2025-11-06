@@ -1,33 +1,21 @@
 [
   {
+    "name": "deneme 2",
+    "path": "games/deneme 2/",
+    "emoji": "🎮",
+    "unit": "",
+    "level": "",
+    "tags": [
+      "vocabulary"
+    ],
+    "desc": "",
+    "valid": true
+  },
+  {
     "name": "Milyoner9 1",
     "path": "games/Milyoner9_1/",
     "emoji": "🎮",
     "unit": "9.1",
-    "level": "",
-    "tags": [
-      "vocabulary"
-    ],
-    "desc": "",
-    "valid": true
-  },
-  {
-    "name": "Milyoner9 2",
-    "path": "games/Milyoner9_2/",
-    "emoji": "🎮",
-    "unit": "9.2",
-    "level": "",
-    "tags": [
-      "vocabulary"
-    ],
-    "desc": "",
-    "valid": true
-  },
-  {
-    "name": "Milyoner9 2   Kopya",
-    "path": "games/Milyoner9_2 - Kopya/",
-    "emoji": "🎮",
-    "unit": "9.2",
     "level": "",
     "tags": [
       "vocabulary"
